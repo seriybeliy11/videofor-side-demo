@@ -72,10 +72,6 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
-
 ---
 
 This README provides a professional overview of the project, its features, structure, and how to get started. It also includes information on contributing and licensing.
